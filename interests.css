@@ -1,0 +1,92 @@
+body
+{
+    margin: 0;
+    background-color: #D3D3D3;
+}
+
+p
+{
+    padding-left: 10px;
+    font-size: 120%;
+}
+
+.united
+{
+padding-top: 20px;
+font-size: 120%;    
+}
+
+.mainheading
+{
+text-align: center;
+}
+
+
+nav 
+{
+   padding: 15px;
+    text-align: right;
+}
+
+nav a
+{
+padding: 15px;
+color: white;
+text-decoration: none;
+}
+
+nav a:hover
+{
+text-decoration: underline;
+}
+
+header
+{
+    background-color: #181863;
+}
+
+.h3bot
+{
+padding-top: 10px;
+padding-left: 20px;
+font-family: 'Times New Roman', Times, serif;
+color: darkslategrey;
+}
+
+.football
+{
+text-decoration: underline;
+}
+
+#manUtd
+{
+padding-left: 20px;
+height: 200px;
+}
+
+.Hmusic
+{
+text-align: right;
+padding-top: 40px;
+padding-right: 20px;
+text-decoration: underline;
+}
+
+.Pmusic
+{
+text-align: right;
+}
+table
+{
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+th, td
+{
+    border: 1px black;
+    padding: 10px;
+    text-align: right;
+}
